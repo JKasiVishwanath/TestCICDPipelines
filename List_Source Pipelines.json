@@ -1,0 +1,86 @@
+[
+  {
+    "partition_snode_id": "5a26da01bc9ffa00217c9bef",
+    "updated_by": "kvishwanath@snaplogic.com",
+    "perms": [
+      "A",
+      "R",
+      "W",
+      "X"
+    ],
+    "time_created": "2017-12-06T05:45:02.055000+00:00",
+    "snode_id": "5a2783def405bb0021cf0c64",
+    "owner": "kvishwanath@snaplogic.com",
+    "path": "/Snap-COE-Development/projects/Kashi Vishwanath/TestCreateUser",
+    "asset_type": "Pipeline",
+    "asset_id": "ec53ded4-8883-4c35-b6da-5005522f6ee9",
+    "time_updated": "2017-12-06T05:45:02.055000+00:00",
+    "name": "TestCreateUser",
+    "parent_snode_id": "5a275acea92066001e29159b",
+    "acl": [],
+    "metadata": {}
+  },
+  {
+    "partition_snode_id": "5a26da01bc9ffa00217c9bef",
+    "updated_by": "kvishwanath@snaplogic.com",
+    "perms": [
+      "A",
+      "R",
+      "W",
+      "X"
+    ],
+    "time_created": "2017-12-31T16:39:10.163000+00:00",
+    "snode_id": "5a4912ae4f619d09bf2c060a",
+    "owner": "kvishwanath@snaplogic.com",
+    "path": "/Snap-COE-Development/projects/Kashi Vishwanath/ProjectMigration-EmailNotification",
+    "asset_type": "Pipeline",
+    "asset_id": "4147228d-8e04-4e36-9756-623fdb746b0a",
+    "time_updated": "2018-01-08T09:39:32.507000+00:00",
+    "name": "ProjectMigration-EmailNotification",
+    "parent_snode_id": "5a275acea92066001e29159b",
+    "acl": [],
+    "metadata": {}
+  },
+  {
+    "partition_snode_id": "5a26da01bc9ffa00217c9bef",
+    "updated_by": "kvishwanath@snaplogic.com",
+    "perms": [
+      "A",
+      "R",
+      "W",
+      "X"
+    ],
+    "time_created": "2018-01-02T11:11:22.311000+00:00",
+    "snode_id": "5a4b68da9dd40f08be36676e",
+    "owner": "kvishwanath@snaplogic.com",
+    "path": "/Snap-COE-Development/projects/Kashi Vishwanath/Child-ProjectMigration",
+    "asset_type": "Pipeline",
+    "asset_id": "4af3224d-7596-4ed9-9921-349a366b9bb7",
+    "time_updated": "2018-01-03T10:51:28.500000+00:00",
+    "name": "Child-ProjectMigration",
+    "parent_snode_id": "5a275acea92066001e29159b",
+    "acl": [],
+    "metadata": {}
+  },
+  {
+    "partition_snode_id": "5a26da01bc9ffa00217c9bef",
+    "updated_by": "kvishwanath@snaplogic.com",
+    "perms": [
+      "A",
+      "R",
+      "W",
+      "X"
+    ],
+    "time_created": "2018-01-03T06:15:11.183000+00:00",
+    "snode_id": "5a4c74eff952e9082ad93769",
+    "owner": "kvishwanath@snaplogic.com",
+    "path": "/Snap-COE-Development/projects/Kashi Vishwanath/Email",
+    "asset_type": "Pipeline",
+    "asset_id": "a4ed4fe2-9bbf-4f6a-b93d-997a5924a74d",
+    "time_updated": "2018-01-03T11:06:53.599000+00:00",
+    "name": "Email",
+    "parent_snode_id": "5a275acea92066001e29159b",
+    "acl": [],
+    "metadata": {}
+  }
+]
